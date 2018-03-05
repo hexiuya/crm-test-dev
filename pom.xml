@@ -126,9 +126,9 @@
 			</activation>
 			<properties>
 				<profileActive>dev</profileActive>
-				<spring.datasource.url>jdbc:mysql://localhost:3306/crm</spring.datasource.url>
-				<spring.datasource.username>root</spring.datasource.username>
-				<spring.datasource.password>1234</spring.datasource.password>
+				<spring.datasource.url>jdbc:mysql://localhost:8080</spring.datasource.url>
+				<spring.datasource.username>crm-test</spring.datasource.username>
+				<spring.datasource.password>Crm-test</spring.datasource.password>
 				<spring.datasource.driver-class-name>com.mysql.jdbc.Driver</spring.datasource.driver-class-name>
 				<hangFileExportPath>E:\\</hangFileExportPath>
 				<hangFileNamePrefix>asset_</hangFileNamePrefix>
