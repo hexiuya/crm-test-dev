@@ -126,7 +126,7 @@
 			</activation>
 			<properties>
 				<profileActive>dev</profileActive>
-				<spring.datasource.url>jdbc:mysql://localhost:3306/crm</spring.datasource.url>
+				<spring.datasource.url>jdbc:mysql://172.17.0.2:3306/crm</spring.datasource.url>
 				<spring.datasource.username>crm-test</spring.datasource.username>
 				<spring.datasource.password>Crm-test</spring.datasource.password>
 				<spring.datasource.driver-class-name>com.mysql.jdbc.Driver</spring.datasource.driver-class-name>
