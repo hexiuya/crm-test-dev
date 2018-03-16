@@ -3,9 +3,9 @@ use crm ;
 drop table if exists CUSTOMER;
 
 /*==============================================================*/
-/* Table: CUSTOMER                                              */
+/* Table: customer                                              */
 /*==============================================================*/
-create table CUSTOMER
+create table customer 
 (
    ID                   int not null auto_increment comment '����',
    USERNAME             varchar(50) comment '�û���',
